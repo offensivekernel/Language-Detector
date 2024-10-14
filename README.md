@@ -1,37 +1,37 @@
 # Language-Detector
 This is Language Detector script support below mentions language for detection.
 
-Java
+1.Java
 
-XML
+2.XML
 
-JavaScript
+3.JavaScript
 
-CSS
+4.CSS
 
-SCSS
+5.SCSS
 
-TypeScript
+6.TypeScript
 
-PL/SQL
+7.PL/SQL
 
-PHP
+8.PHP
 
-Groovy
+9.Groovy
 
-Less
+10.Less
 
-INI
+11.INI
 
-HTML
+12.HTML
 
-Kotlin
+13.Kotlin
 
-Swift
+14.Swift
 
-Objective-C
+15.Objective-C
 
-React JS
+16.React JS
 
-Ruby
+17.Ruby
 
